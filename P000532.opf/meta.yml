@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W8LS19192
   title: རྒྱུད་བཞིའི་འགྲེལ་བ་མེས་པོའི་ཞལ་ལུང་། སྨད་ཆ།
-  volume: ''
+  volume:
+    f8832814d8ca485ebf82c7674daade09:
+      image_group_id: I8LS19194
+      title: Volume 1 of /rgyud bzhi'i 'grel ba mes po'i zhal lung / smad cha/
+      volume_number: 1
+      total_pages: 1108
   author: ''
+ebook_metadata:
+  title: རྒྱུད་བཞིའི་འགྲེལ་བ་མེས་པོའི་ཞལ་ལུང་། སྨད་ཆ།
+  author: ''
+  sku: P000532
+  cover: cover.jpg
+  layers:
+  - pagination
